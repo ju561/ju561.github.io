@@ -1,0 +1,27 @@
+header{
+    text-align: center;
+    height: 90px;
+    color: rgb(255, 255, 255)
+    
+}
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255)
+}
+
+#intro{
+    font-family: arial ;
+    color: rgb(255, 255, 255)
+}
+p{
+    font-size:larger;
+    color: rgb(255, 255, 255)
+}
+
+body{
+    background-image: url(fondo.png) ;
+    background-repeat: no-repeat;
+    position: absolute;
+background-size: cover;
+
+}
